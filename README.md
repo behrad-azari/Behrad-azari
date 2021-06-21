@@ -19,7 +19,8 @@ I am very interested in technology and I enjoy using them,I am also looking forw
 
 📫 How to reach me:
 
--  [Linkedin](https://www.linkedin.com/in/behrad-azari-5058/) 
+-  [Linkedin](https://www.linkedin.com/in/behrad-azari-5058/)
+-   [Twitter](https://twitter.com/TechBehrad)
 -  [ Email](mailto:behrad.tech@yahoo.com?subject=[GitHub]%20Source%20Han%20Sans)
 -  [Instagram](https://www.instagram.com/behrad.tech/)
 -  [Gitlab](https://gitlab.com/Behrad.Azari)
