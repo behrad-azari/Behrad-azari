@@ -22,7 +22,7 @@ I am very interested in technology and I enjoy using them,I am also looking forw
 -  [Linkedin](https://www.linkedin.com/in/behrad-azari-5058/) 
 -  [ Email](mailto:behrad.tech@yahoo.com?subject=[GitHub]%20Source%20Han%20Sans)
 -  [Instagram](https://www.instagram.com/behrad.tech/)
--  [GitHub](http://github.com/brhradazari)
+-  [Gitlab](https://gitlab.com/Behrad.Azari)
 
 
 
